@@ -229,13 +229,112 @@
     <div class="mb-120 d-block"></div>
     <!-- Portfolio Area-->
     <!-- RDP PAckages -->
-    <div class="saasbox-pricing-plan-area price2 bg-grey">
+    <div class="saasbox-pricing-plan-area price2 bg-gray">
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-12 col-sm-9 col-md-8 col-lg-7">
             <div class="section-heading text-center">
               
               <h2>RDP Packages</h2>
+              <!-- <p>It's crafted with the latest trend of design &amp; coded with all modern approaches. It's a robust &amp; multi-dimensional usable template.</p> -->
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-12">
+            <div class="pricing-table-switch mb-5 text-center wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="200ms">
+              <div class="form-check form-switch d-flex align-items-center justify-content-center ps-0 mb-0">
+                <label class="form-check-label fz-16 fw-bold me-3" for="priceSwitching">Monthly</label>
+                <input class="form-check-input ms-0 mt-0" id="priceSwitching" type="checkbox">
+                <label class="form-check-label fz-16 fw-bold ms-3 position-relative" for="priceSwitching">Yearly<span class="badge bg-danger rounded position-absolute">-20%</span></label>
+              </div>
+            </div>
+          </div>
+          <div class="col-12">
+            <div class="row g-4 justify-content-center">
+              <!-- Single Pricing Plan-->
+              <div class="col-12 col-sm-9 col-md-7 col-lg-4">
+                <div class="card pricing-card monthly-plan shadow-lg wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
+                  <div class="pricing-heading mb-5">
+                    <div class="price"><span class="bg-primary rounded-circle"><i class="bi bi-lock"></i></span>
+                      <div class="price-quantity">
+                        <h2 class="mb-0 monthly-price">$3<span class="fz-12">per month</span></h2>
+                        <h2 class="mb-0 yearly-price">$28<span class="fz-12">per year (save 20%)</span></h2>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="pricing-desc mb-5">
+                    <ul class="list-unstyled mb-0">
+                      <li><i class="text-info me-2 bi bi-check-circle-fill"></i>1 Month Usage</li>
+                      <li><i class="text-info me-2 bi bi-check-circle-fill"></i>Lifetime Updates</li>
+                      <li><i class="text-info me-2 bi bi-check-circle-fill"></i>1 Website License</li>
+                      <li><i class="text-info me-2 bi bi-check-circle-fill"></i>Free Support</li>
+                      <li><i class="text-info me-2 bi bi-check-circle-fill"></i>Download New Release</li>
+                    </ul>
+                  </div>
+                  <div class="pricing-btn"><a class="btn btn-primary btn-minimal" href="cart.html">Start Now Today<i class="bi bi-caret-right-fill"></i></a></div>
+                </div>
+              </div>
+              <!-- Single Pricing Plan-->
+              <div class="col-12 col-sm-9 col-md-7 col-lg-4">
+                <div class="card pricing-card monthly-plan active bg-img shadow-lg wow fadeInUp" style="background-image: url('img/core-img/3.png')" data-wow-duration="1000ms" data-wow-delay="500ms">
+                  <div class="pricing-heading mb-5">
+                    <div class="price"><span class="bg-warning rounded-circle"><i class="bi bi-lock"></i></span>
+                      <div class="price-quantity">
+                        <h2 class="mb-0 monthly-price">$9<span class="fz-12">per month</span></h2>
+                        <h2 class="mb-0 yearly-price">$86<span class="fz-12">per year (save 20%)</span></h2>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="pricing-desc mb-5">
+                    <ul class="list-unstyled mb-0">
+                      <li><i class="text-info me-2 bi bi-check-circle-fill"></i>1 Month Usage</li>
+                      <li><i class="text-info me-2 bi bi-check-circle-fill"></i>Lifetime Updates</li>
+                      <li><i class="text-info me-2 bi bi-check-circle-fill"></i>1 Website License</li>
+                      <li><i class="text-info me-2 bi bi-check-circle-fill"></i>Free Support</li>
+                      <li><i class="text-info me-2 bi bi-check-circle-fill"></i>Download New Release</li>
+                    </ul>
+                  </div>
+                  <div class="pricing-btn"><a class="btn btn-warning btn-minimal" href="cart.html">Start Now Today<i class="bi bi-caret-right-fill"></i></a></div>
+                </div>
+              </div>
+              <!-- Single Pricing Plan-->
+              <div class="col-12 col-sm-9 col-md-7 col-lg-4">
+                <div class="card pricing-card monthly-plan shadow-lg wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="700ms">
+                  <div class="pricing-heading mb-5">
+                    <div class="price"><span class="bg-info rounded-circle"><i class="bi bi-lock"></i></span>
+                      <div class="price-quantity">
+                        <h2 class="mb-0 monthly-price">$21<span class="fz-12">per month</span></h2>
+                        <h2 class="mb-0 yearly-price">$199<span class="fz-12">per year (save 20%)</span></h2>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="pricing-desc mb-5">
+                    <ul class="list-unstyled mb-0">
+                      <li><i class="text-info me-2 bi bi-check-circle-fill"></i>1 Month Usage</li>
+                      <li><i class="text-info me-2 bi bi-check-circle-fill"></i>Lifetime Updates</li>
+                      <li><i class="text-info me-2 bi bi-check-circle-fill"></i>1 Website License</li>
+                      <li><i class="text-info me-2 bi bi-check-circle-fill"></i>Free Support</li>
+                      <li><i class="text-info me-2 bi bi-check-circle-fill"></i>Download New Release</li>
+                    </ul>
+                  </div>
+                  <div class="pricing-btn"><a class="btn btn-info btn-minimal" href="cart.html">Start Now Today<i class="bi bi-caret-right-fill"></i></a></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="mb-120 d-block"></div>
+
+    <div class="saasbox-pricing-plan-area price2">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-12 col-sm-9 col-md-8 col-lg-7">
+            <div class="section-heading text-center">
+              
+              <h2>Cpanel Packages</h2>
               <!-- <p>It's crafted with the latest trend of design &amp; coded with all modern approaches. It's a robust &amp; multi-dimensional usable template.</p> -->
             </div>
           </div>
