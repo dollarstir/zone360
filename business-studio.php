@@ -129,9 +129,9 @@
             <!-- Single About Area-->
             <div class="col-12 col-sm-6 col-lg-3">                   
               <div class="single-about-item text-center wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="200ms">
-                <div class="icon mx-auto mb-4"><img src="img/svg-icon/web.svg" alt=""></div>
-                <h5 class="mb-3">Web Design</h5>
-                <p class="mb-0">It's crafted with the latest trend of design &amp; coded with all modern approaches.</p>
+                <div class="icon mx-auto mb-4"><img src="img/svg-icon/gmail.svg" alt=""></div>
+                <h5 class="mb-3">Gmail Accounts</h5>
+                <p class="mb-0">We offer you the best quality Gmail account, each account created by unique IP and phone verified.</p>
               </div>
             </div>
             <!-- Single About Area-->
