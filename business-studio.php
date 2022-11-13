@@ -106,6 +106,15 @@
                 <p class="mb-0">We provide you with organic instagram followers</p>
               </div>
             </div>
+
+            <!-- Single About Area-->
+            <div class="col-12 col-sm-6 col-lg-3">
+              <div class="single-about-item text-center wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="800ms">
+                <div class="icon mx-auto mb-4"><img src="img/svg-icon/instagram.png" alt=""></div>
+                <h5 class="mb-3">Instagram Likes</h5>
+                <p class="mb-0">We provide you with organic instagram Likes</p>
+              </div>
+            </div>
           </div>
         </div>
       </div>
