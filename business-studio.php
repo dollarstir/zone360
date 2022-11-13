@@ -148,17 +148,17 @@
             <!-- Single About Area-->
             <div class="col-12 col-sm-6 col-lg-3">
               <div class="single-about-item text-center wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="600ms">
-                <div class="icon mx-auto mb-4"><img src="img/svg-icon/play.svg" alt=""></div>
-                <h5 class="mb-3">Apps Design</h5>
-                <p class="mb-0">It's crafted with the latest trend of design &amp; coded with all modern approaches.</p>
+                <div class="icon mx-auto mb-4"><img src="img/svg-icon/textnow.png" alt=""></div>
+                <h5 class="mb-3">Text Now Account</h5>
+                <p class="mb-0">Want to buy a Textnow account to promote your business, we give you a full phone verified account. complete Textnow account.</p>
               </div>
             </div>
             <!-- Single About Area-->
             <div class="col-12 col-sm-6 col-lg-3">
               <div class="single-about-item text-center wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="800ms">
-                <div class="icon mx-auto mb-4"><img src="img/svg-icon/shopping.svg" alt=""></div>
-                <h5 class="mb-3">Ecommerce Solution</h5>
-                <p class="mb-0">It's crafted with the latest trend of design &amp; coded with all modern approaches.</p>
+                <div class="icon mx-auto mb-4"><img src="img/svg-icon/youtube.svg" alt=""></div>
+                <h5 class="mb-3">YouTube</h5>
+                <p class="mb-0">We provide you with a complete YouTube account, and with each YouTube account, you get an old Gmail account.</p>
               </div>
             </div>
           </div>
