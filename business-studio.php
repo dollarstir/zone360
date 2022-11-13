@@ -136,32 +136,28 @@
             <div class="section-heading text-center">
               
               <h2>Google Voice Number Packages</h2>
-              <!-- <p>It's crafted with the latest trend of design &amp; coded with all modern approaches. It's a robust &amp; multi-dimensional usable template.</p> -->
+              
             </div>
           </div>
         </div>
         <div class="row">
-          <div class="col-12">
-            <div class="pricing-table-switch mb-5 text-center wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="200ms">
-              <div class="form-check form-switch d-flex align-items-center justify-content-center ps-0 mb-0">
-                <label class="form-check-label fz-16 fw-bold me-3" for="priceSwitching">Monthly</label>
-                <input class="form-check-input ms-0 mt-0" id="priceSwitching" type="checkbox">
-                <label class="form-check-label fz-16 fw-bold ms-3 position-relative" for="priceSwitching">Yearly<span class="badge bg-danger rounded position-absolute">-20%</span></label>
-              </div>
-            </div>
-          </div>
+          
           <div class="col-12">
             <div class="row g-4 justify-content-center">
               <!-- Single Pricing Plan-->
               <div class="col-12 col-sm-9 col-md-7 col-lg-4">
                 <div class="card pricing-card monthly-plan shadow-lg wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
                   <div class="pricing-heading mb-5">
-                    <div class="price"><span class="bg-primary rounded-circle"><i class="bi bi-lock"></i></span>
-                      <div class="price-quantity">
-                        <h2 class="mb-0 monthly-price">$3<span class="fz-12">per month</span></h2>
-                        <h2 class="mb-0 yearly-price">$28<span class="fz-12">per year (save 20%)</span></h2>
-                      </div>
+                    <h3>1 google voice</h3><br>
+                    <div class="price-quantity">
+                        
+                        <h3 class="mb-0 monthly-price">&#8373; 90<span class="fz-12"></span></h3>
+                        
                     </div>
+                    <!-- <div class="price"><span class="bg-primary rounded-circle"><i class="bi bi-lock"></i></span>
+                        
+                     
+                    </div> -->
                   </div>
                   <div class="pricing-desc mb-5">
                     <ul class="list-unstyled mb-0">
@@ -177,14 +173,18 @@
               </div>
               <!-- Single Pricing Plan-->
               <div class="col-12 col-sm-9 col-md-7 col-lg-4">
-                <div class="card pricing-card monthly-plan active bg-img shadow-lg wow fadeInUp" style="background-image: url('img/core-img/3.png')" data-wow-duration="1000ms" data-wow-delay="500ms">
+                <div class="card pricing-card monthly-plan shadow-lg wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
                   <div class="pricing-heading mb-5">
-                    <div class="price"><span class="bg-warning rounded-circle"><i class="bi bi-lock"></i></span>
-                      <div class="price-quantity">
-                        <h2 class="mb-0 monthly-price">$9<span class="fz-12">per month</span></h2>
-                        <h2 class="mb-0 yearly-price">$86<span class="fz-12">per year (save 20%)</span></h2>
-                      </div>
+                    <h3>1 google voice</h3><br>
+                    <div class="price-quantity">
+                        
+                        <h3 class="mb-0 monthly-price">&#8373; 90<span class="fz-12"></span></h3>
+                        
                     </div>
+                    <!-- <div class="price"><span class="bg-primary rounded-circle"><i class="bi bi-lock"></i></span>
+                        
+                     
+                    </div> -->
                   </div>
                   <div class="pricing-desc mb-5">
                     <ul class="list-unstyled mb-0">
@@ -195,19 +195,24 @@
                       <li><i class="text-info me-2 bi bi-check-circle-fill"></i>Download New Release</li>
                     </ul>
                   </div>
-                  <div class="pricing-btn"><a class="btn btn-warning btn-minimal" href="cart.html">Start Now Today<i class="bi bi-caret-right-fill"></i></a></div>
+                  <div class="pricing-btn"><a class="btn btn-primary btn-minimal" href="cart.html">Start Now Today<i class="bi bi-caret-right-fill"></i></a></div>
                 </div>
               </div>
+
               <!-- Single Pricing Plan-->
               <div class="col-12 col-sm-9 col-md-7 col-lg-4">
-                <div class="card pricing-card monthly-plan shadow-lg wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="700ms">
+                <div class="card pricing-card monthly-plan shadow-lg wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
                   <div class="pricing-heading mb-5">
-                    <div class="price"><span class="bg-info rounded-circle"><i class="bi bi-lock"></i></span>
-                      <div class="price-quantity">
-                        <h2 class="mb-0 monthly-price">$21<span class="fz-12">per month</span></h2>
-                        <h2 class="mb-0 yearly-price">$199<span class="fz-12">per year (save 20%)</span></h2>
-                      </div>
+                    <h3>1 google voice</h3><br>
+                    <div class="price-quantity">
+                        
+                        <h3 class="mb-0 monthly-price">&#8373; 90<span class="fz-12"></span></h3>
+                        
                     </div>
+                    <!-- <div class="price"><span class="bg-primary rounded-circle"><i class="bi bi-lock"></i></span>
+                        
+                     
+                    </div> -->
                   </div>
                   <div class="pricing-desc mb-5">
                     <ul class="list-unstyled mb-0">
@@ -218,7 +223,7 @@
                       <li><i class="text-info me-2 bi bi-check-circle-fill"></i>Download New Release</li>
                     </ul>
                   </div>
-                  <div class="pricing-btn"><a class="btn btn-info btn-minimal" href="cart.html">Start Now Today<i class="bi bi-caret-right-fill"></i></a></div>
+                  <div class="pricing-btn"><a class="btn btn-primary btn-minimal" href="cart.html">Start Now Today<i class="bi bi-caret-right-fill"></i></a></div>
                 </div>
               </div>
             </div>
@@ -241,27 +246,23 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-12">
-            <div class="pricing-table-switch mb-5 text-center wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="200ms">
-              <div class="form-check form-switch d-flex align-items-center justify-content-center ps-0 mb-0">
-                <label class="form-check-label fz-16 fw-bold me-3" for="priceSwitching">Monthly</label>
-                <input class="form-check-input ms-0 mt-0" id="priceSwitching" type="checkbox">
-                <label class="form-check-label fz-16 fw-bold ms-3 position-relative" for="priceSwitching">Yearly<span class="badge bg-danger rounded position-absolute">-20%</span></label>
-              </div>
-            </div>
-          </div>
+          
           <div class="col-12">
             <div class="row g-4 justify-content-center">
               <!-- Single Pricing Plan-->
               <div class="col-12 col-sm-9 col-md-7 col-lg-4">
                 <div class="card pricing-card monthly-plan shadow-lg wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
                   <div class="pricing-heading mb-5">
-                    <div class="price"><span class="bg-primary rounded-circle"><i class="bi bi-lock"></i></span>
-                      <div class="price-quantity">
-                        <h2 class="mb-0 monthly-price">$3<span class="fz-12">per month</span></h2>
-                        <h2 class="mb-0 yearly-price">$28<span class="fz-12">per year (save 20%)</span></h2>
-                      </div>
+                    <h3>1 google voice</h3><br>
+                    <div class="price-quantity">
+                        
+                        <h3 class="mb-0 monthly-price">&#8373; 90<span class="fz-12"></span></h3>
+                        
                     </div>
+                    <!-- <div class="price"><span class="bg-primary rounded-circle"><i class="bi bi-lock"></i></span>
+                        
+                     
+                    </div> -->
                   </div>
                   <div class="pricing-desc mb-5">
                     <ul class="list-unstyled mb-0">
@@ -275,16 +276,22 @@
                   <div class="pricing-btn"><a class="btn btn-primary btn-minimal" href="cart.html">Start Now Today<i class="bi bi-caret-right-fill"></i></a></div>
                 </div>
               </div>
-              <!-- Single Pricing Plan-->
+
+
+              <!-- sigle pac -->
               <div class="col-12 col-sm-9 col-md-7 col-lg-4">
-                <div class="card pricing-card monthly-plan active bg-img shadow-lg wow fadeInUp" style="background-image: url('img/core-img/3.png')" data-wow-duration="1000ms" data-wow-delay="500ms">
+                <div class="card pricing-card monthly-plan shadow-lg wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
                   <div class="pricing-heading mb-5">
-                    <div class="price"><span class="bg-warning rounded-circle"><i class="bi bi-lock"></i></span>
-                      <div class="price-quantity">
-                        <h2 class="mb-0 monthly-price">$9<span class="fz-12">per month</span></h2>
-                        <h2 class="mb-0 yearly-price">$86<span class="fz-12">per year (save 20%)</span></h2>
-                      </div>
+                    <h3>1 google voice</h3><br>
+                    <div class="price-quantity">
+                        
+                        <h3 class="mb-0 monthly-price">&#8373; 90<span class="fz-12"></span></h3>
+                        
                     </div>
+                    <!-- <div class="price"><span class="bg-primary rounded-circle"><i class="bi bi-lock"></i></span>
+                        
+                     
+                    </div> -->
                   </div>
                   <div class="pricing-desc mb-5">
                     <ul class="list-unstyled mb-0">
@@ -295,19 +302,23 @@
                       <li><i class="text-info me-2 bi bi-check-circle-fill"></i>Download New Release</li>
                     </ul>
                   </div>
-                  <div class="pricing-btn"><a class="btn btn-warning btn-minimal" href="cart.html">Start Now Today<i class="bi bi-caret-right-fill"></i></a></div>
+                  <div class="pricing-btn"><a class="btn btn-primary btn-minimal" href="cart.html">Start Now Today<i class="bi bi-caret-right-fill"></i></a></div>
                 </div>
               </div>
-              <!-- Single Pricing Plan-->
+
               <div class="col-12 col-sm-9 col-md-7 col-lg-4">
-                <div class="card pricing-card monthly-plan shadow-lg wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="700ms">
+                <div class="card pricing-card monthly-plan shadow-lg wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
                   <div class="pricing-heading mb-5">
-                    <div class="price"><span class="bg-info rounded-circle"><i class="bi bi-lock"></i></span>
-                      <div class="price-quantity">
-                        <h2 class="mb-0 monthly-price">$21<span class="fz-12">per month</span></h2>
-                        <h2 class="mb-0 yearly-price">$199<span class="fz-12">per year (save 20%)</span></h2>
-                      </div>
+                    <h3>1 google voice</h3><br>
+                    <div class="price-quantity">
+                        
+                        <h3 class="mb-0 monthly-price">&#8373; 90<span class="fz-12"></span></h3>
+                        
                     </div>
+                    <!-- <div class="price"><span class="bg-primary rounded-circle"><i class="bi bi-lock"></i></span>
+                        
+                     
+                    </div> -->
                   </div>
                   <div class="pricing-desc mb-5">
                     <ul class="list-unstyled mb-0">
@@ -318,16 +329,17 @@
                       <li><i class="text-info me-2 bi bi-check-circle-fill"></i>Download New Release</li>
                     </ul>
                   </div>
-                  <div class="pricing-btn"><a class="btn btn-info btn-minimal" href="cart.html">Start Now Today<i class="bi bi-caret-right-fill"></i></a></div>
+                  <div class="pricing-btn"><a class="btn btn-primary btn-minimal" href="cart.html">Start Now Today<i class="bi bi-caret-right-fill"></i></a></div>
                 </div>
               </div>
+
             </div>
           </div>
         </div>
       </div>
     </div>
     <div class="mb-120 d-block"></div>
-
+        <!-- cpanel -->
     <div class="saasbox-pricing-plan-area price2">
       <div class="container">
         <div class="row justify-content-center">
@@ -335,32 +347,25 @@
             <div class="section-heading text-center">
               
               <h2>Cpanel Packages</h2>
-              <!-- <p>It's crafted with the latest trend of design &amp; coded with all modern approaches. It's a robust &amp; multi-dimensional usable template.</p> -->
+              
             </div>
           </div>
         </div>
         <div class="row">
-          <div class="col-12">
-            <div class="pricing-table-switch mb-5 text-center wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="200ms">
-              <div class="form-check form-switch d-flex align-items-center justify-content-center ps-0 mb-0">
-                <label class="form-check-label fz-16 fw-bold me-3" for="priceSwitching">Monthly</label>
-                <input class="form-check-input ms-0 mt-0" id="priceSwitching" type="checkbox">
-                <label class="form-check-label fz-16 fw-bold ms-3 position-relative" for="priceSwitching">Yearly<span class="badge bg-danger rounded position-absolute">-20%</span></label>
-              </div>
-            </div>
-          </div>
+          
           <div class="col-12">
             <div class="row g-4 justify-content-center">
               <!-- Single Pricing Plan-->
               <div class="col-12 col-sm-9 col-md-7 col-lg-4">
                 <div class="card pricing-card monthly-plan shadow-lg wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
                   <div class="pricing-heading mb-5">
-                    <div class="price"><span class="bg-primary rounded-circle"><i class="bi bi-lock"></i></span>
-                      <div class="price-quantity">
-                        <h2 class="mb-0 monthly-price">$3<span class="fz-12">per month</span></h2>
-                        <h2 class="mb-0 yearly-price">$28<span class="fz-12">per year (save 20%)</span></h2>
-                      </div>
+                    <h3>1 google voice</h3><br>
+                    <div class="price-quantity">
+                        
+                        <h3 class="mb-0 monthly-price">&#8373; 90<span class="fz-12"></span></h3>
+                        
                     </div>
+                    
                   </div>
                   <div class="pricing-desc mb-5">
                     <ul class="list-unstyled mb-0">
@@ -376,14 +381,15 @@
               </div>
               <!-- Single Pricing Plan-->
               <div class="col-12 col-sm-9 col-md-7 col-lg-4">
-                <div class="card pricing-card monthly-plan active bg-img shadow-lg wow fadeInUp" style="background-image: url('img/core-img/3.png')" data-wow-duration="1000ms" data-wow-delay="500ms">
+                <div class="card pricing-card monthly-plan shadow-lg wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
                   <div class="pricing-heading mb-5">
-                    <div class="price"><span class="bg-warning rounded-circle"><i class="bi bi-lock"></i></span>
-                      <div class="price-quantity">
-                        <h2 class="mb-0 monthly-price">$9<span class="fz-12">per month</span></h2>
-                        <h2 class="mb-0 yearly-price">$86<span class="fz-12">per year (save 20%)</span></h2>
-                      </div>
+                    <h3>1 google voice</h3><br>
+                    <div class="price-quantity">
+                        
+                        <h3 class="mb-0 monthly-price">&#8373; 90<span class="fz-12"></span></h3>
+                        
                     </div>
+                    
                   </div>
                   <div class="pricing-desc mb-5">
                     <ul class="list-unstyled mb-0">
@@ -394,19 +400,23 @@
                       <li><i class="text-info me-2 bi bi-check-circle-fill"></i>Download New Release</li>
                     </ul>
                   </div>
-                  <div class="pricing-btn"><a class="btn btn-warning btn-minimal" href="cart.html">Start Now Today<i class="bi bi-caret-right-fill"></i></a></div>
+                  <div class="pricing-btn"><a class="btn btn-primary btn-minimal" href="cart.html">Start Now Today<i class="bi bi-caret-right-fill"></i></a></div>
                 </div>
               </div>
               <!-- Single Pricing Plan-->
               <div class="col-12 col-sm-9 col-md-7 col-lg-4">
-                <div class="card pricing-card monthly-plan shadow-lg wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="700ms">
+                <div class="card pricing-card monthly-plan shadow-lg wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
                   <div class="pricing-heading mb-5">
-                    <div class="price"><span class="bg-info rounded-circle"><i class="bi bi-lock"></i></span>
-                      <div class="price-quantity">
-                        <h2 class="mb-0 monthly-price">$21<span class="fz-12">per month</span></h2>
-                        <h2 class="mb-0 yearly-price">$199<span class="fz-12">per year (save 20%)</span></h2>
-                      </div>
+                    <h3>1 google voice</h3><br>
+                    <div class="price-quantity">
+                        
+                        <h3 class="mb-0 monthly-price">&#8373; 90<span class="fz-12"></span></h3>
+                        
                     </div>
+                    <!-- <div class="price"><span class="bg-primary rounded-circle"><i class="bi bi-lock"></i></span>
+                        
+                     
+                    </div> -->
                   </div>
                   <div class="pricing-desc mb-5">
                     <ul class="list-unstyled mb-0">
@@ -417,7 +427,7 @@
                       <li><i class="text-info me-2 bi bi-check-circle-fill"></i>Download New Release</li>
                     </ul>
                   </div>
-                  <div class="pricing-btn"><a class="btn btn-info btn-minimal" href="cart.html">Start Now Today<i class="bi bi-caret-right-fill"></i></a></div>
+                  <div class="pricing-btn"><a class="btn btn-primary btn-minimal" href="cart.html">Start Now Today<i class="bi bi-caret-right-fill"></i></a></div>
                 </div>
               </div>
             </div>
@@ -433,8 +443,8 @@
           <div class="col-12 col-sm-9 col-lg-7">
             <div class="section-heading text-center">
               <h6>Testimonials</h6>
-              <h2>Read some reviews from our beloved clients about our work.</h2>
-              <p>It's crafted with the latest trend of design &amp; coded with all modern approaches. It's a robust &amp; multi-dimensional usable template.</p>
+              <!-- <h2>Read some reviews from our beloved clients about our work.</h2> -->
+              <!-- <p>It's crafted with the latest trend of design &amp; coded with all modern approaches. It's a robust &amp; multi-dimensional usable template.</p> -->
             </div>
           </div>
         </div>
@@ -461,6 +471,7 @@
           <div class="cir-testimonial tes7" data-bs-toggle="popover" data-bs-trigger="hover" data-bs-custom-class="testimonial-popover" data-bs-container="body" data-bs-placement="bottom" title="Shai Hello" data-bs-content="Absolutely wonderful! I wish I would have thought of it first. Excellent product!"><img src="img/bg-img/t1.png" alt=""></div>
           <!-- Single Testimonial -->
           <div class="cir-testimonial tes8" data-bs-toggle="popover" data-bs-trigger="hover" data-bs-custom-class="testimonial-popover" data-bs-container="body" data-bs-placement="bottom" title="T Ninja" data-bs-content="I strongly recommend to everyone interested in running a business!"><img src="img/bg-img/t2.png" alt=""></div>
+          <div class="cir-testimonial tes8" data-bs-toggle="popover" data-bs-trigger="hover" data-bs-custom-class="testimonial-popover" data-bs-container="body" data-bs-placement="bottom" title="T Ninja" data-bs-content="I strongly recommend to everyone interested in running a business!"><img src="img/svg-icon/instagram.png" alt=""></div>
         </div>
       </div>
       <div class="container">
@@ -468,51 +479,7 @@
       </div>
     </div>
     <!-- News Area-->
-    <div class="saasbox-news-area news2">
-      <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-12 col-sm-9 col-lg-7 col-xxl-6">
-            <div class="section-heading text-center">
-              <h6>Latest Blog's</h6>
-              <h2>Our Latest News</h2>
-              <p>It's crafted with the latest trend of design &amp; coded with all modern approaches. It's a robust &amp; multi-dimensional usable template.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="container">
-        <div class="row justify-content-center g-4 g-md-5 g-lg-4 g-xl-5">
-          <!-- Blog Card -->
-          <div class="col-12 col-sm-10 col-md-6 col-lg-4">
-            <div class="card blog-card border-0"><a class="image-wrap d-block" href="blog-1.html"><img src="img/bg-img/blog4.jpg" alt=""></a>
-              <div class="card-body px-4 pb-0"><a class="badge bg-primary text-white mb-1" href="blog-1.html">News</a><a class="post-title d-block mb-3" href="blog-1.html">Seven ways agency can improve your business.</a>
-                <div class="post-meta"><span class="text-muted fz-14"><i class="bi bi-clock me-2"></i>2 min read</span></div>
-              </div>
-            </div>
-          </div>
-          <!-- Blog Card -->
-          <div class="col-12 col-sm-10 col-md-6 col-lg-4">
-            <div class="card blog-card border-0">
-              <div class="image-wrap"><img src="img/bg-img/blog5.jpg" alt="">
-                <!-- Video-->
-                <div class="video-play-btn"><i class="bi bi-play"></i></div>
-              </div>
-              <div class="card-body px-4 pb-0"><a class="badge bg-primary text-white mb-1" href="blog-1.html">Agency</a><a class="post-title d-block mb-3" href="blog-1.html">The reason why everyone love business.</a>
-                <div class="post-meta"><span class="text-muted fz-14"><i class="bi bi-clock me-2"></i>4 min read</span></div>
-              </div>
-            </div>
-          </div>
-          <!-- Blog Card -->
-          <div class="col-12 col-sm-10 col-md-6 col-lg-4">
-            <div class="card blog-card border-0"><a class="image-wrap d-block" href="blog-1.html"><img src="img/bg-img/blog6.jpg" alt=""></a>
-              <div class="card-body px-4 pb-0"><a class="badge bg-primary text-white mb-1" href="blog-1.html">Trending</a><a class="post-title d-block mb-3" href="blog-1.html">Seven ways agency can improve your business.</a>
-                <div class="post-meta"><span class="text-muted fz-14"><i class="bi bi-clock me-2"></i>3 min read</span></div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+    
     <div class="mb-120 d-block"></div>
     <!-- Newsletter Area-->
     <div class="saasbox-newsletter-area">
