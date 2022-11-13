@@ -3,7 +3,7 @@
         <div class="row g-4 g-lg-5">
           <!-- Footer Widget Area -->
           <div class="col-12 col-sm-6 col-lg-3">
-            <div class="footer-widget-area"><a class="d-block mb-4" href="index.html"><img src="img/core-img/logo-white.png" alt=""></a>
+            <div class="footer-widget-area"><a class="d-block mb-4" href="index.html"><img src="img/core-img/logo.png" alt=""></a>
               <p>It's crafted with the latest trend of design &amp; coded with all modern approaches.</p>
               <!-- Newsletter Form -->
               <div class="newsletter-form mb-4">
@@ -56,7 +56,7 @@
         <div class="copywrite-wrapper mt-5 rounded d-lg-flex align-items-lg-center justify-content-lg-between">
           <!-- Copywrite Text -->
           <div class="copywrite-text text-center text-lg-start mb-3 mb-lg-0 me-lg-4">
-            <p class="mb-0">2021 &copy; All rights reserved by <a href="#" target="_blank">Designing World</a></p>
+            <p class="mb-0">2022 &copy; All rights reserved Street Code</p>
           </div>
           <!-- Footer Nav -->
           <div class="footer-nav mb-3 mb-lg-0 me-lg-4">

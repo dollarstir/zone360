@@ -109,12 +109,7 @@
           <div class="col-12">
             <div class="breadcrumb-content">
               <h2 class="breadcrumb-title">Cart</h2>
-              <nav aria-label="breadcrumb">
-                <ol class="breadcrumb justify-content-center">
-                  <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                  <li class="breadcrumb-item active" aria-current="page">Cart</li>
-                </ol>
-              </nav>
+              
             </div>
           </div>
         </div>
@@ -125,7 +120,7 @@
     <div class="cart-area clearfix">
       <div class="container">
         <!-- Apply Coupon -->
-        <div class="apply-coupon mb-5">
+        <!-- <div class="apply-coupon mb-5">
           <h4>Have a Coupon?</h4>
           <p>Enter your coupon code here &amp; get awesome discounts!</p>
           <div class="coupon-form">
@@ -134,7 +129,7 @@
               <button class="btn btn-primary rounded-0 rounded-end" type="submit">Apply</button>
             </form>
           </div>
-        </div>
+        </div> -->
         <div class="row">
           <div class="col-12">
             <!-- Cart Table -->
@@ -158,60 +153,13 @@
                       <td><a href="#">Bonsai Tree</a></td>
                       <td>$0.99</td>
                       <td>
-                        <input class="qty-text" type="text" min="1" max="99" name="quantity" value="2">
+                        1
+                        <!-- <input class="qty-text" type="text" min="1" max="99" name="quantity" value="2"> -->
                       </td>
                       <td>$1.98</td>
                     </tr>
-                    <tr>
-                      <th scope="row"><i class="bi bi-x"></i></th>
-                      <td><img src="http://preview.designing-world.com/saasbox-v2.0.0/img/bg-img/shop2.jpg" alt="Product"></td>
-                      <td><a href="#">Milk Biscuit</a></td>
-                      <td>$0.7</td>
-                      <td>
-                        <input class="qty-text" type="text" min="1" max="99" name="quantity" value="1">
-                      </td>
-                      <td>$0.7</td>
-                    </tr>
-                    <tr>
-                      <th scope="row"><i class="bi bi-x"></i></th>
-                      <td><img src="http://preview.designing-world.com/saasbox-v2.0.0/img/bg-img/shop3.jpg" alt="Product"></td>
-                      <td><a href="#">Bonsai Tree</a></td>
-                      <td>$0.5</td>
-                      <td>
-                        <input class="qty-text" type="text" min="1" max="99" name="quantity" value="3">
-                      </td>
-                      <td>$1.5</td>
-                    </tr>
-                    <tr>
-                      <th scope="row"><i class="bi bi-x"></i></th>
-                      <td><img src="http://preview.designing-world.com/saasbox-v2.0.0/img/bg-img/shop4.jpg" alt="Product"></td>
-                      <td><a href="#">Sony PS4</a></td>
-                      <td>$1.11</td>
-                      <td>
-                        <input class="qty-text" type="text" min="1" max="99" name="quantity" value="7">
-                      </td>
-                      <td>$7.77</td>
-                    </tr>
-                    <tr>
-                      <th scope="row"><i class="bi bi-x"></i></th>
-                      <td><img src="http://preview.designing-world.com/saasbox-v2.0.0/img/bg-img/shop5.jpg" alt="Product"></td>
-                      <td><a href="#">Beauty Line</a></td>
-                      <td>$2.99</td>
-                      <td>
-                        <input class="qty-text" type="text" min="1" max="99" name="quantity" value="2">
-                      </td>
-                      <td>$5.98</td>
-                    </tr>
-                    <tr>
-                      <th scope="row"><i class="bi bi-x"></i></th>
-                      <td><img src="http://preview.designing-world.com/saasbox-v2.0.0/img/bg-img/shop6.jpg" alt="Product"></td>
-                      <td><a href="#">Beauty</a></td>
-                      <td>$6.12</td>
-                      <td>
-                        <input class="qty-text" type="text" min="1" max="99" name="quantity" value="1">
-                      </td>
-                      <td>$6.12</td>
-                    </tr>
+                    
+                    
                   </tbody>
                 </table>
               </div>
@@ -239,7 +187,7 @@
                     </tr>
                   </tbody>
                 </table>
-              </div><a class="btn btn-primary w-100" href="checkout.html">Proceed To Checkout</a>
+              </div><a class="btn btn-primary w-100" href="checkout.php">Proceed To Checkout</a>
             </div>
           </div>
         </div>

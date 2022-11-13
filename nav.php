@@ -25,8 +25,8 @@
                     <li class=""><a href="#">Instagram</a></li>
                 </ul>
               </li>
-              <li><a href="">About</a></li>
-                <li class=""><a href="#">Contact</a></li>
+              <!-- <li><a href="">About</a></li> -->
+                <!-- <li class=""><a href="#">Contact</a></li> -->
               <!-- <li class="sb-dropdown"><a href="#">Shop</a>
                 <ul class="sb-dropdown-menu">
                   <li><a href="shop-fullwidth.html">Shop Fullwidth</a></li>
