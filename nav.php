@@ -14,18 +14,20 @@
             <ul class="navbar-nav navbar-nav-scroll">
               <li class=""><a href="#">Home</a>
               <li class=""><a href="#">Google Voice</a>
-              <li class=""><a href="#">Textnow</a></li>
-              <!-- <li class="sb-dropdown"><a href="#">Portfolio</a>
+              <li class=""><a href="#">RDP</a></li>
+              <li class=""><a href="#">Cpanel</a></li>
+              
+              <li class="sb-dropdown"><a href="#">Other Services</a>
                 <ul class="sb-dropdown-menu">
-                  <li><a href="portfolio-standard.html">Portfolio 1</a></li>
-                  <li><a href="portfolio-creative.html">Portfolio 2</a></li>
-                  <li><a href="portfolio-full-width.html">Portfolio 3</a></li>
-                  <li><a href="portfolio-details-one.html">Portfolio Details 1</a></li>
-                  <li><a href="portfolio-details-two.html">Portfolio Details 2</a></li>
-                  <li><a href="portfolio-details-three.html">Portfolio Details 3</a></li>
+                    <li class=""><a href="#">Email Leads</a></li>
+                    <li class=""><a href="#">Textnow</a></li>
+                    <li class=""><a href="#">Youtube</a></li>
+                    <li class=""><a href="#">Instagram</a></li>
                 </ul>
-              </li> -->
-              <li class="sb-dropdown"><a href="#">Shop</a>
+              </li>
+              <li><a href="">About</a></li>
+                <li class=""><a href="#">Contact</a></li>
+              <!-- <li class="sb-dropdown"><a href="#">Shop</a>
                 <ul class="sb-dropdown-menu">
                   <li><a href="shop-fullwidth.html">Shop Fullwidth</a></li>
                   <li><a href="shop-sidebar.html">Shop Sidebar</a></li>
@@ -33,18 +35,9 @@
                   <li><a href="cart.html">Cart</a></li>
                   <li><a href="checkout.html">Checkout</a></li>
                 </ul>
-              </li>
-              <!-- <li class="sb-dropdown"><a href="#">Blog</a>
-                <ul class="sb-dropdown-menu">
-                  <li><a href="blog-1.html">Blog 1</a></li>
-                  <li><a href="blog-2.html">Blog 2</a></li>
-                  <li><a href="blog-3.html">Blog 3</a></li>
-                  <li><a href="blog-details-1.html">Blog Details 1</a></li>
-                  <li><a href="blog-details-2.html">Blog Details 2</a></li>
-                  <li><a href="blog-details-3.html">Blog Details 3</a></li>
-                </ul>
               </li> -->
-              <li class="sb-dropdown"><a href="#">Pages</a>
+              
+              <!-- <li class="sb-dropdown"><a href="#">Pages</a>
                 <ul class="sb-dropdown-menu">
                   <li class="sb-dropdown"><a href="#">About Us</a>
                     <ul class="sb-dropdown-menu">
@@ -74,7 +67,7 @@
                   <li><a href="newsletter.html">Newsletter</a></li>
                   <li><a href="404.html">404 - Error</a></li>
                 </ul>
-              </li>
+              </li> -->
             </ul>
             <!-- Login Button --><a class="btn btn-warning btn-sm ms-auto mb-3 mb-lg-0" href="#">Log In</a>
           </div>
