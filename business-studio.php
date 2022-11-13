@@ -80,8 +80,8 @@
             <div class="col-12 col-sm-6 col-lg-3">
               <div class="single-about-item text-center wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="800ms">
                 <div class="icon mx-auto mb-4"><img src="img/svg-icon/gmail.svg" alt=""></div>
-                <h5 class="mb-3">Gmail Account</h5>
-                <p class="mb-0">We offer you the best quality Gmail account, each account created by unique IP and phone verified.</p>
+                <h5 class="mb-3">Email Leads</h5>
+                <p class="mb-0">We provide large quantity of valid email leads for your business</p>
               </div>
             </div>
 
