@@ -69,9 +69,9 @@
             <!-- Single About Area-->
             <div class="col-12 col-sm-6 col-lg-3">
               <div class="single-about-item text-center wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="800ms">
-                <div class="icon mx-auto mb-4"><img src="img/svg-icon/youtube.svg" alt=""></div>
+                <div class="icon mx-auto mb-4"><img src="img/svg-icon/cpanel.png" alt=""></div>
                 <h5 class="mb-3">Cpanel</h5>
-                <p class="mb-0">We provide you with a dedicated cpanel, and with each YouTube account, you get an old Gmail account.</p>
+                <p class="mb-0">We provide you with a dedicated cpanel, helps to host your websites and other pages.</p>
               </div>
             </div>
 
