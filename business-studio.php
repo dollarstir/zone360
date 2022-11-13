@@ -172,68 +172,7 @@
     <div class="mb-120 d-block"></div>
     <!-- Features Area-->
     <div class="feature-area feature2 pt-120 pb-120">
-    <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-12 col-sm-9 col-lg-7 col-xxl-6">
-            <div class="section-heading text-center">
-              <h6>Pricing Table</h6>
-              <h2>Easy &amp; Simple Plan</h2>
-              <p>It's crafted with the latest trend of design &amp; coded with all modern approaches. It's a robust &amp; multi-dimensional usable template.</p>
-            </div>
-          </div>
-        </div>
-        <div class="row justify-content-center g-4 g-lg-5">
-          <!-- Single Pricing Plan-->
-          <div class="col-12 col-sm-9 col-md-6 col-lg-5 col-xl-4">
-            <div class="card pricing-card">
-              <div class="pricing-heading">
-                <div class="price">
-                  <h6>Basic</h6>
-                  <h1 class="mb-0 display-3 fw-bold text-info">$23</h1><span class="fz-12 d-block">per month</span>
-                </div>
-              </div>
-              <div class="pricing-desc my-5">
-                <ul class="ps-0 mb-0 list-unstyled">
-                  <li>1 Month Usage</li>
-                  <li>Lifetime Updates</li>
-                  <li class="times">1 Website License</li>
-                  <li class="times">Free Support</li>
-                  <li class="times">Download New Release</li>
-                </ul>
-              </div>
-              <div class="pricing-btn"><a class="btn btn-info btn-sm rounded-pill" href="#">Choose Plan
-                  <svg class="bi bi-arrow-right ms-1" xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" viewBox="0 0 16 16">
-                    <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z"></path>
-                  </svg></a></div>
-            </div>
-          </div>
-          <!-- Single Pricing Plan-->
-          <div class="col-12 col-sm-9 col-md-6 col-lg-5 col-xl-4">
-            <div class="card pricing-card active bg-img" style="background-image: url('img/core-img/3.png')">
-              <div class="pricing-heading">
-                <div class="price">
-                  <h6>Standard</h6>
-                  <h1 class="mb-0 display-3 fw-bold text-warning">$99</h1><span class="fz-12 d-block">per month</span>
-                </div>
-              </div>
-              <div class="pricing-desc my-5">
-                <ul class="ps-0 mb-0 list-unstyled">
-                  <li>1 Month Usage</li>
-                  <li>Lifetime Updates</li>
-                  <li>1 Website License</li>
-                  <li class="times">Free Support</li>
-                  <li class="times">Download New Release</li>
-                </ul>
-              </div>
-              <div class="pricing-btn"><a class="btn btn-warning btn-sm rounded-pill" href="#">Choose Plan
-                  <svg class="bi bi-arrow-right ms-1" xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" viewBox="0 0 16 16">
-                    <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z"></path>
-                  </svg></a></div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+    
     <div class="mb-120 d-block"></div>
     <!-- Pricing Plan Area-->
     <div class="saasbox-pricing-plan-area price2">
