@@ -180,9 +180,9 @@
         <div class="row justify-content-center">
           <div class="col-12 col-sm-9 col-md-8 col-lg-7">
             <div class="section-heading text-center">
-              <h6>Pricing Plan</h6>
-              <h2>Simple &amp; transparent pricing plan for your team.</h2>
-              <p>It's crafted with the latest trend of design &amp; coded with all modern approaches. It's a robust &amp; multi-dimensional usable template.</p>
+              
+              <h2>Google Voice Number Pricing Tables</h2>
+              <!-- <p>It's crafted with the latest trend of design &amp; coded with all modern approaches. It's a robust &amp; multi-dimensional usable template.</p> -->
             </div>
           </div>
         </div>
