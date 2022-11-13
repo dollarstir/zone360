@@ -1,6 +1,6 @@
 <?php include 'top.php'; ?>
   <body>
-    
+    <?php include 'nav.php'; ?>
     <!-- Welcome Area -->
     <div class="welcome-area hero2 bg-white">
       <!-- Background Shape -->
