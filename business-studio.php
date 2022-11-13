@@ -165,92 +165,70 @@
         </div>
       </div>
       <div class="mb-120 b-block"></div>
-      <div class="container">
-        <div class="row g-5 align-items-center justify-content-md-center justify-content-lg-between">
-          <!-- About Thumbnail Area -->
-          <div class="col-12 col-md-8 col-lg-6 col-xl-5">
-            <div class="aboutUs-thumbnail"><img class="w-100" src="img/bg-img/5.jpg" alt=""></div>
-          </div>
-          <!-- About Us Content Area -->
-          <div class="col-12 col-md-8 col-lg-6">
-            <div class="aboutUs-content">
-              <div class="section-heading mb-5">
-                <h6>What We Do</h6>
-                <h2>Increase your business growth with Saasbox.</h2>
-                <p>It's crafted with the latest trend of design &amp; coded with all modern approaches. It's a robust &amp; multi-dimensional usable template.</p>
-              </div>
-              <!-- Work Step Wrapper -->
-              <div class="work-step-wrapper">
-                <!-- Single Work Step -->
-                <div class="single-work-step d-flex mb-4"><span>1</span>
-                  <div class="work-step-text">
-                    <h6>Collect your data</h6>
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Mollitia, eaque? Ullam minus illum quasi reprehenderit.</p>
-                  </div>
-                </div>
-                <!-- Single Work Step -->
-                <div class="single-work-step d-flex mb-4"><span>2</span>
-                  <div class="work-step-text">
-                    <h6>Design prototype &amp; development</h6>
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Mollitia, eaque? Ullam minus illum quasi reprehenderit.</p>
-                  </div>
-                </div>
-              </div><a class="btn btn-info" href="#">Get Started Today</a>
-            </div>
-          </div>
-        </div>
-      </div>
+      
+
+      
     </div>
     <div class="mb-120 d-block"></div>
     <!-- Features Area-->
     <div class="feature-area feature2 pt-120 pb-120">
-      <div class="container">
+    <div class="container">
         <div class="row justify-content-center">
-          <div class="col-12 col-sm-9 col-lg-8">
+          <div class="col-12 col-sm-9 col-lg-7 col-xxl-6">
             <div class="section-heading text-center">
-              <h6 class="text-dark">Why choose us</h6>
-              <h2>We have been running many successful business studios.</h2>
-              <p class="text-dark">It's crafted with the latest trend of design &amp; coded with all modern approaches. It's a robust &amp; multi-dimensional usable template.</p>
+              <h6>Pricing Table</h6>
+              <h2>Easy &amp; Simple Plan</h2>
+              <p>It's crafted with the latest trend of design &amp; coded with all modern approaches. It's a robust &amp; multi-dimensional usable template.</p>
             </div>
           </div>
         </div>
-      </div>
-      <div class="container">
-        <div class="row g-4 g-xxl-5">
-          <div class="col-12 col-sm-6 col-lg-3">
-            <div class="card feature2-card shadow-lg wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="200ms">
-              <div class="card-body">
-                <div class="feature-icon mb-4 text-primary"><i class="bi bi-bootstrap-fill"></i></div>
-                <h5>Bootstrap 5.1</h5>
-                <p>Build fast, responsive sites with Bootstrap.</p><a class="btn btn-primary btn-minimal" href="#">Learn more...</a>
+        <div class="row justify-content-center g-4 g-lg-5">
+          <!-- Single Pricing Plan-->
+          <div class="col-12 col-sm-9 col-md-6 col-lg-5 col-xl-4">
+            <div class="card pricing-card">
+              <div class="pricing-heading">
+                <div class="price">
+                  <h6>Basic</h6>
+                  <h1 class="mb-0 display-3 fw-bold text-info">$23</h1><span class="fz-12 d-block">per month</span>
+                </div>
               </div>
+              <div class="pricing-desc my-5">
+                <ul class="ps-0 mb-0 list-unstyled">
+                  <li>1 Month Usage</li>
+                  <li>Lifetime Updates</li>
+                  <li class="times">1 Website License</li>
+                  <li class="times">Free Support</li>
+                  <li class="times">Download New Release</li>
+                </ul>
+              </div>
+              <div class="pricing-btn"><a class="btn btn-info btn-sm rounded-pill" href="#">Choose Plan
+                  <svg class="bi bi-arrow-right ms-1" xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" viewBox="0 0 16 16">
+                    <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z"></path>
+                  </svg></a></div>
             </div>
           </div>
-          <div class="col-12 col-sm-6 col-lg-3">
-            <div class="card feature2-card shadow-lg wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="400ms">
-              <div class="card-body">
-                <div class="feature-icon mb-4 text-warning"><i class="bi bi-code-slash"></i></div>
-                <h5>Vanilla JS</h5>
-                <p>The write less, do more with JavaScript Library.</p><a class="btn btn-info btn-minimal" href="#">Learn more...</a>
+          <!-- Single Pricing Plan-->
+          <div class="col-12 col-sm-9 col-md-6 col-lg-5 col-xl-4">
+            <div class="card pricing-card active bg-img" style="background-image: url('img/core-img/3.png')">
+              <div class="pricing-heading">
+                <div class="price">
+                  <h6>Standard</h6>
+                  <h1 class="mb-0 display-3 fw-bold text-warning">$99</h1><span class="fz-12 d-block">per month</span>
+                </div>
               </div>
-            </div>
-          </div>
-          <div class="col-12 col-sm-6 col-lg-3">
-            <div class="card feature2-card shadow-lg wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="600ms">
-              <div class="card-body">
-                <div class="feature-icon mb-4 text-danger"><i class="bi bi-bullseye"></i></div>
-                <h5>Pug Supported</h5>
-                <p>It compiles to HTML and has a simplified syntax.</p><a class="btn btn-danger btn-minimal" href="#">Learn more...</a>
+              <div class="pricing-desc my-5">
+                <ul class="ps-0 mb-0 list-unstyled">
+                  <li>1 Month Usage</li>
+                  <li>Lifetime Updates</li>
+                  <li>1 Website License</li>
+                  <li class="times">Free Support</li>
+                  <li class="times">Download New Release</li>
+                </ul>
               </div>
-            </div>
-          </div>
-          <div class="col-12 col-sm-6 col-lg-3">
-            <div class="card feature2-card shadow-lg wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="800ms">
-              <div class="card-body">
-                <div class="feature-icon mb-4 text-info"><i class="bi bi-braces"></i></div>
-                <h5>SCSS Featured</h5>
-                <p>Sass is the stable &amp; powerful grade CSS.</p><a class="btn btn-dark btn-minimal" href="#">Learn more...</a>
-              </div>
+              <div class="pricing-btn"><a class="btn btn-warning btn-sm rounded-pill" href="#">Choose Plan
+                  <svg class="bi bi-arrow-right ms-1" xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" viewBox="0 0 16 16">
+                    <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z"></path>
+                  </svg></a></div>
             </div>
           </div>
         </div>
