@@ -63,7 +63,7 @@
                   </div> -->
                  
                   <div class="col-12">
-                    <label class="mb-2" for="order-notes">Order Notes</label>
+                    <label class="mb-2" for="order-notes">Order Notes (optional)</label>
                     <textarea class="form-control" id="order-notes" placeholder="Notes about your order, e.g. special notes for delivery." rows="3"></textarea>
                   </div>
                 </div>
