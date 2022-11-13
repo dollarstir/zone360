@@ -23,7 +23,7 @@
     <meta property="twitter:url" content="http://streetkode.tk/">
     <meta property="twitter:title" content="Street Code - Buy Google Voice with Mobile Money">
     <meta property="twitter:description"
-        content="Yolk is a PHP framework that helps to easily build web apps. Comes with in-built database queries and has custom tags and structure">
+        content="Buy Google Voice Accounts, Affordable RDP, Text Now Accounts, Youtube Views & Watch hours from Us .We accept Mobile Money">
     <meta property="twitter:image" content="template/img/core-img/logo.png">
     <!-- Title-->
     <title>Darknet</title>
