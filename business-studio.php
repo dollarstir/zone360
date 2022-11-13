@@ -107,7 +107,10 @@
             <div class="welcome-content">
               <h2 class="wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="200ms">We focus on the growth of your business.</h2>
               <p class="mb-4 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="400ms">Top-quality and responsible email marketing is our central goal and vision so we generally keep zero resistance.</p>
-              <div class="d-flex align-items-center wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="600ms"><a class="btn btn-warning mt-3" href="#">Get Started</a><a class="btn btn-danger btn-minimal mt-3 ms-3 play-button" href="https://www.youtube.com/watch?v=lFGvqvPh5jI">Play Video</a></div>
+              <div class="d-flex align-items-center wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="600ms">
+                <a class="btn btn-warning mt-3" href="#">Get Started</a>
+                <!-- <a class="btn btn-danger btn-minimal mt-3 ms-3 play-button" href="https://www.youtube.com/watch?v=lFGvqvPh5jI">Play Video</a> -->
+              </div>
             </div>
           </div>
           <div class="col-12 col-sm-10 col-md-6">
@@ -137,9 +140,9 @@
             <!-- Single About Area-->
             <div class="col-12 col-sm-6 col-lg-3">
               <div class="single-about-item text-center wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="400ms">
-                <div class="icon mx-auto mb-4"><img src="img/svg-icon/branding.svg" alt=""></div>
-                <h5 class="mb-3">Branding</h5>
-                <p class="mb-0">It's crafted with the latest trend of design &amp; coded with all modern approaches.</p>
+                <div class="icon mx-auto mb-4"><img src="img/svg-icon/voice.png" alt=""></div>
+                <h5 class="mb-3">Google Voice</h5>
+                <p class="mb-0">Get Google Voice account at a lower price, with each account you get an old Gmail account that is not easily lost</p>
               </div>
             </div>
             <!-- Single About Area-->
