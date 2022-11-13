@@ -135,7 +135,7 @@
           <div class="col-12 col-sm-9 col-md-8 col-lg-7">
             <div class="section-heading text-center">
               
-              <h2>Google Voice Number Pricing Tables</h2>
+              <h2>Google Voice Number Packages</h2>
               <!-- <p>It's crafted with the latest trend of design &amp; coded with all modern approaches. It's a robust &amp; multi-dimensional usable template.</p> -->
             </div>
           </div>
@@ -228,82 +228,97 @@
     </div>
     <div class="mb-120 d-block"></div>
     <!-- Portfolio Area-->
-    <div class="saasbox-portfolio-area pt-120 pb-120 bg-gray">
+    <!-- RDP PAckages -->
+    <div class="saasbox-pricing-plan-area price2 bg-grey">
       <div class="container">
-        <div class="row align-items-end justify-content-between">
-          <div class="col-12 col-sm-8 col-lg-7 col-xxl-6">
-            <div class="section-heading mb-0">
-              <h6>Portfolio</h6>
-              <h2>Check our latest awesome creative works</h2>
-              <p>It's crafted with the latest trend of design &amp; coded with all modern approaches. It's a robust &amp; multi-dimensional usable template.</p>
+        <div class="row justify-content-center">
+          <div class="col-12 col-sm-9 col-md-8 col-lg-7">
+            <div class="section-heading text-center">
+              
+              <h2>RDP Packages</h2>
+              <!-- <p>It's crafted with the latest trend of design &amp; coded with all modern approaches. It's a robust &amp; multi-dimensional usable template.</p> -->
             </div>
-          </div>
-          <div class="col-12 col-sm-4 col-lg-5">
-            <div class="text-sm-end mt-5 mt-sm-0"><a class="btn btn-primary" href="portfolio-creative.html">View All Works</a></div>
           </div>
         </div>
-      </div>
-      <div class="d-block mb-80"></div>
-      <div class="container-fluid">
-        <div class="portfolio2-wrapper px-3">
-          <div class="portfolio2-slides">
-            <div>
-              <!-- Single Portfolio Area -->
-              <div class="single-portfolio-area"><img src="img/bg-img/p22.jpg" alt="">
-                <!-- Ovarlay Content -->
-                <div class="overlay-content">
-                  <div class="portfolio-title">
-                    <h6 class="mb-0">Portfolio Title</h6>
-                  </div>
-                  <div class="portfolio-links"><a class="portfolio-img-zoom" href="img/bg-img/p22.jpg"><i class="bi bi-arrows-fullscreen"></i></a><a href="portfolio-details-one.html"><i class="bi bi-link-45deg"></i></a></div>
-                </div>
+        <div class="row">
+          <div class="col-12">
+            <div class="pricing-table-switch mb-5 text-center wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="200ms">
+              <div class="form-check form-switch d-flex align-items-center justify-content-center ps-0 mb-0">
+                <label class="form-check-label fz-16 fw-bold me-3" for="priceSwitching">Monthly</label>
+                <input class="form-check-input ms-0 mt-0" id="priceSwitching" type="checkbox">
+                <label class="form-check-label fz-16 fw-bold ms-3 position-relative" for="priceSwitching">Yearly<span class="badge bg-danger rounded position-absolute">-20%</span></label>
               </div>
             </div>
-            <div>
-              <!-- Single Portfolio Area -->
-              <div class="single-portfolio-area"><img src="img/bg-img/p23.jpg" alt="">
-                <!-- Ovarlay Content -->
-                <div class="overlay-content">
-                  <div class="portfolio-title">
-                    <h6 class="mb-0">Apps Redesign</h6>
+          </div>
+          <div class="col-12">
+            <div class="row g-4 justify-content-center">
+              <!-- Single Pricing Plan-->
+              <div class="col-12 col-sm-9 col-md-7 col-lg-4">
+                <div class="card pricing-card monthly-plan shadow-lg wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
+                  <div class="pricing-heading mb-5">
+                    <div class="price"><span class="bg-primary rounded-circle"><i class="bi bi-lock"></i></span>
+                      <div class="price-quantity">
+                        <h2 class="mb-0 monthly-price">$3<span class="fz-12">per month</span></h2>
+                        <h2 class="mb-0 yearly-price">$28<span class="fz-12">per year (save 20%)</span></h2>
+                      </div>
+                    </div>
                   </div>
-                  <div class="portfolio-links"><a class="portfolio-img-zoom" href="img/bg-img/p23.jpg"><i class="bi bi-arrows-fullscreen"></i></a><a href="portfolio-details-one.html"><i class="bi bi-link-45deg"></i></a></div>
+                  <div class="pricing-desc mb-5">
+                    <ul class="list-unstyled mb-0">
+                      <li><i class="text-info me-2 bi bi-check-circle-fill"></i>1 Month Usage</li>
+                      <li><i class="text-info me-2 bi bi-check-circle-fill"></i>Lifetime Updates</li>
+                      <li><i class="text-info me-2 bi bi-check-circle-fill"></i>1 Website License</li>
+                      <li><i class="text-info me-2 bi bi-check-circle-fill"></i>Free Support</li>
+                      <li><i class="text-info me-2 bi bi-check-circle-fill"></i>Download New Release</li>
+                    </ul>
+                  </div>
+                  <div class="pricing-btn"><a class="btn btn-primary btn-minimal" href="cart.html">Start Now Today<i class="bi bi-caret-right-fill"></i></a></div>
                 </div>
               </div>
-            </div>
-            <div>
-              <!-- Single Portfolio Area -->
-              <div class="single-portfolio-area"><img src="img/bg-img/p24.jpg" alt="">
-                <!-- Ovarlay Content -->
-                <div class="overlay-content">
-                  <div class="portfolio-title">
-                    <h6 class="mb-0">Marketing</h6>
+              <!-- Single Pricing Plan-->
+              <div class="col-12 col-sm-9 col-md-7 col-lg-4">
+                <div class="card pricing-card monthly-plan active bg-img shadow-lg wow fadeInUp" style="background-image: url('img/core-img/3.png')" data-wow-duration="1000ms" data-wow-delay="500ms">
+                  <div class="pricing-heading mb-5">
+                    <div class="price"><span class="bg-warning rounded-circle"><i class="bi bi-lock"></i></span>
+                      <div class="price-quantity">
+                        <h2 class="mb-0 monthly-price">$9<span class="fz-12">per month</span></h2>
+                        <h2 class="mb-0 yearly-price">$86<span class="fz-12">per year (save 20%)</span></h2>
+                      </div>
+                    </div>
                   </div>
-                  <div class="portfolio-links"><a class="portfolio-img-zoom" href="img/bg-img/p24.jpg"><i class="bi bi-arrows-fullscreen"></i></a><a href="portfolio-details-one.html"><i class="bi bi-link-45deg"></i></a></div>
+                  <div class="pricing-desc mb-5">
+                    <ul class="list-unstyled mb-0">
+                      <li><i class="text-info me-2 bi bi-check-circle-fill"></i>1 Month Usage</li>
+                      <li><i class="text-info me-2 bi bi-check-circle-fill"></i>Lifetime Updates</li>
+                      <li><i class="text-info me-2 bi bi-check-circle-fill"></i>1 Website License</li>
+                      <li><i class="text-info me-2 bi bi-check-circle-fill"></i>Free Support</li>
+                      <li><i class="text-info me-2 bi bi-check-circle-fill"></i>Download New Release</li>
+                    </ul>
+                  </div>
+                  <div class="pricing-btn"><a class="btn btn-warning btn-minimal" href="cart.html">Start Now Today<i class="bi bi-caret-right-fill"></i></a></div>
                 </div>
               </div>
-            </div>
-            <div>
-              <!-- Single Portfolio Area-->
-              <div class="single-portfolio-area"><img src="img/bg-img/p25.jpg" alt="">
-                <!-- Ovarlay Content -->
-                <div class="overlay-content">
-                  <div class="portfolio-title">
-                    <h6 class="mb-0">eCommerce Solution</h6>
+              <!-- Single Pricing Plan-->
+              <div class="col-12 col-sm-9 col-md-7 col-lg-4">
+                <div class="card pricing-card monthly-plan shadow-lg wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="700ms">
+                  <div class="pricing-heading mb-5">
+                    <div class="price"><span class="bg-info rounded-circle"><i class="bi bi-lock"></i></span>
+                      <div class="price-quantity">
+                        <h2 class="mb-0 monthly-price">$21<span class="fz-12">per month</span></h2>
+                        <h2 class="mb-0 yearly-price">$199<span class="fz-12">per year (save 20%)</span></h2>
+                      </div>
+                    </div>
                   </div>
-                  <div class="portfolio-links"><a class="portfolio-img-zoom" href="img/bg-img/p25.jpg"><i class="bi bi-arrows-fullscreen"></i></a><a href="portfolio-details-one.html"><i class="bi bi-link-45deg"></i></a></div>
-                </div>
-              </div>
-            </div>
-            <div>
-              <!-- Single Portfolio Area -->
-              <div class="single-portfolio-area"><img src="img/bg-img/p26.jpg" alt="">
-                <!-- Ovarlay Content -->
-                <div class="overlay-content">
-                  <div class="portfolio-title">
-                    <h6 class="mb-0">Bugs Fix Works</h6>
+                  <div class="pricing-desc mb-5">
+                    <ul class="list-unstyled mb-0">
+                      <li><i class="text-info me-2 bi bi-check-circle-fill"></i>1 Month Usage</li>
+                      <li><i class="text-info me-2 bi bi-check-circle-fill"></i>Lifetime Updates</li>
+                      <li><i class="text-info me-2 bi bi-check-circle-fill"></i>1 Website License</li>
+                      <li><i class="text-info me-2 bi bi-check-circle-fill"></i>Free Support</li>
+                      <li><i class="text-info me-2 bi bi-check-circle-fill"></i>Download New Release</li>
+                    </ul>
                   </div>
-                  <div class="portfolio-links"><a class="portfolio-img-zoom" href="img/bg-img/p26.jpg"><i class="bi bi-arrows-fullscreen"></i></a><a href="portfolio-details-one.html"><i class="bi bi-link-45deg"></i></a></div>
+                  <div class="pricing-btn"><a class="btn btn-info btn-minimal" href="cart.html">Start Now Today<i class="bi bi-caret-right-fill"></i></a></div>
                 </div>
               </div>
             </div>
@@ -311,6 +326,7 @@
         </div>
       </div>
     </div>
+    <div class="mb-120 d-block"></div>
     <!-- Client Feedback Area -->
     <div class="client-feedback-area feedback-2 pt-120 pb-120">
       <div class="container">
