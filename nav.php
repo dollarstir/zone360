@@ -71,7 +71,7 @@
             </ul>
             <!-- Login Button -->
             <a class="btn btn-warning btn-sm ms-auto mb-3 mb-lg-0" href="#">Log In</a>
-            <a class="bi bi-cart btn-sm ms-auto mb-3 mb-lg-0" href="#">0</a>
+            <a class="bi bi-cart btn-sm ms-auto mb-3 mb-lg-0" style="border:1px solid grey;" href="#"><span style="padding:5px;">23</span></a>
           </div>
         </div>
       </nav>
