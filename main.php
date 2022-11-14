@@ -168,7 +168,7 @@
                       <li><i class="text-info me-2 bi bi-check-circle-fill"></i>Download New Release</li>
                     </ul>
                   </div>
-                  <div class="pricing-btn"><a class="btn btn-primary btn-minimal" href="cart.html">Start Now Today<i class="bi bi-caret-right-fill"></i></a></div>
+                  <div class="pricing-btn"><a class="btn btn-primary" href="cart.html">Buy Now<i class="bi bi-caret-right-fill"></i></a></div>
                 </div>
               </div>
               <!-- Single Pricing Plan-->
@@ -195,7 +195,7 @@
                       <li><i class="text-info me-2 bi bi-check-circle-fill"></i>Download New Release</li>
                     </ul>
                   </div>
-                  <div class="pricing-btn"><a class="btn btn-primary btn-minimal" href="cart.html">Start Now Today<i class="bi bi-caret-right-fill"></i></a></div>
+                  <div class="pricing-btn"><a class="btn btn-primary" href="cart.html">Buy Now<i class="bi bi-caret-right-fill"></i></a></div>
                 </div>
               </div>
 
@@ -223,7 +223,7 @@
                       <li><i class="text-info me-2 bi bi-check-circle-fill"></i>Download New Release</li>
                     </ul>
                   </div>
-                  <div class="pricing-btn"><a class="btn btn-primary btn-minimal" href="cart.html">Start Now Today<i class="bi bi-caret-right-fill"></i></a></div>
+                  <div class="pricing-btn"><a class="btn btn-primary" href="cart.html">Buy Now<i class="bi bi-caret-right-fill"></i></a></div>
                 </div>
               </div>
             </div>
@@ -241,7 +241,7 @@
             <div class="section-heading text-center">
               
               <h2>RDP Packages</h2>
-              <!-- <p>It's crafted with the latest trend of design &amp; coded with all modern approaches. It's a robust &amp; multi-dimensional usable template.</p> -->
+              
             </div>
           </div>
         </div>
@@ -273,7 +273,7 @@
                       <li><i class="text-info me-2 bi bi-check-circle-fill"></i>Download New Release</li>
                     </ul>
                   </div>
-                  <div class="pricing-btn"><a class="btn btn-primary btn-minimal" href="cart.html">Start Now Today<i class="bi bi-caret-right-fill"></i></a></div>
+                  <div class="pricing-btn"><a class="btn btn-primary" href="cart.html">Buy Now<i class="bi bi-caret-right-fill"></i></a></div>
                 </div>
               </div>
 
@@ -302,7 +302,7 @@
                       <li><i class="text-info me-2 bi bi-check-circle-fill"></i>Download New Release</li>
                     </ul>
                   </div>
-                  <div class="pricing-btn"><a class="btn btn-primary btn-minimal" href="cart.html">Start Now Today<i class="bi bi-caret-right-fill"></i></a></div>
+                  <div class="pricing-btn"><a class="btn btn-primary" href="cart.html">Buy Now<i class="bi bi-caret-right-fill"></i></a></div>
                 </div>
               </div>
 
@@ -329,7 +329,7 @@
                       <li><i class="text-info me-2 bi bi-check-circle-fill"></i>Download New Release</li>
                     </ul>
                   </div>
-                  <div class="pricing-btn"><a class="btn btn-primary btn-minimal" href="cart.html">Start Now Today<i class="bi bi-caret-right-fill"></i></a></div>
+                  <div class="pricing-btn"><a class="btn btn-primary" href="cart.html">Buy Now<i class="bi bi-caret-right-fill"></i></a></div>
                 </div>
               </div>
 
@@ -376,7 +376,7 @@
                       <li><i class="text-info me-2 bi bi-check-circle-fill"></i>Download New Release</li>
                     </ul>
                   </div>
-                  <div class="pricing-btn"><a class="btn btn-primary btn-minimal" href="cart.html">Start Now Today<i class="bi bi-caret-right-fill"></i></a></div>
+                  <div class="pricing-btn"><a class="btn btn-primary" href="cart.html">Buy Now<i class="bi bi-caret-right-fill"></i></a></div>
                 </div>
               </div>
               <!-- Single Pricing Plan-->
@@ -400,7 +400,7 @@
                       <li><i class="text-info me-2 bi bi-check-circle-fill"></i>Download New Release</li>
                     </ul>
                   </div>
-                  <div class="pricing-btn"><a class="btn btn-primary btn-minimal" href="cart.html">Start Now Today<i class="bi bi-caret-right-fill"></i></a></div>
+                  <div class="pricing-btn"><a class="btn btn-primary" href="cart.html">Buy Now<i class="bi bi-caret-right-fill"></i></a></div>
                 </div>
               </div>
               <!-- Single Pricing Plan-->
@@ -427,7 +427,7 @@
                       <li><i class="text-info me-2 bi bi-check-circle-fill"></i>Download New Release</li>
                     </ul>
                   </div>
-                  <div class="pricing-btn"><a class="btn btn-primary btn-minimal" href="cart.html">Start Now Today<i class="bi bi-caret-right-fill"></i></a></div>
+                  <div class="pricing-btn"><a class="btn btn-primary" href="cart.html">Buy Now<i class="bi bi-caret-right-fill"></i></a></div>
                 </div>
               </div>
             </div>

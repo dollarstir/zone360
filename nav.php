@@ -69,7 +69,9 @@
                 </ul>
               </li> -->
             </ul>
-            <!-- Login Button --><a class="btn btn-warning btn-sm ms-auto mb-3 mb-lg-0" href="#">Log In</a>
+            <!-- Login Button -->
+            <a class="btn btn-warning btn-sm ms-auto mb-3 mb-lg-0" href="#">Log In</a>
+            <a class="bi bi-cart btn-sm ms-auto mb-3 mb-lg-0" href="#">0</a>
           </div>
         </div>
       </nav>
