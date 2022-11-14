@@ -48,6 +48,7 @@
 
     <!-- All CSS Stylesheet-->
     <link rel="stylesheet" href="css/all-css-libraries.css">
+    <link rel="stylesheet" href="css/float.css">
     <!-- Core Stylesheet-->
     <link rel="stylesheet" href="style.css">
   </head>

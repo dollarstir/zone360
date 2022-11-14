@@ -20,11 +20,11 @@
       <div class="container">
         <div class="row g-5">
           <!-- Checkout Details Area-->
-          <div class="col-12 col-lg-6">
+          <div class="col-12 col-lg-12">
             <div class="checkout-details-area">
-              <h3 class="mb-4">Payment  Instruction</h3>
+             <center> <h3 class="mb-4">Payment  Instruction</h3></center>
 
-              <p><div style="background-color:red;color:#ffff;padding:10px;border-radius:20px;"><h5>Kindly Pay the total amount of &#8373;200 to Below Account</h5><br> <strong>Mobile Money Number : <br>0556676471 <br><br>Account Name : <br>Wisdom Kagblor <br><br>Transaction Reference : <br>STC111</strong></div></p>
+              <p><div style="background-color:red;color:#ffff;padding:10px;border-radius:20px;"><h5>Order No:STC111 </h5><h5>Kindly Pay the total amount of &#8373;200 to Below Account</h5><br> <strong>Mobile Money Number : <br>0556676471 <br><br>Account Name : <br>Wisdom Kagblor <br><br>Transaction Reference : <br>STC111</strong></div></p>
               <form action="#" method="post">
                 <div class="row">
                   <div class="col-12">
