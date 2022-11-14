@@ -31,23 +31,32 @@
                 <!-- Register Form-->
                 <div class="register-form my-5">
                   <form action="#" method="post">
+                    
                     <div class="form-group mb-3">
-                      <input class="form-control rounded-0" type="email" placeholder="Email Address" required>
+                      <input class="form-control rounded-0" type="text" placeholder="Full Name" name="name" required>
                     </div>
                     <div class="form-group mb-3">
-                      <input class="form-control rounded-0" type="text" placeholder="Full Name" required>
+                      <input class="form-control rounded-0" type="email" placeholder="Email Address" name="email" required>
+                    </div>
+
+                    <div class="form-group mb-3">
+                      <input class="form-control rounded-0" type="number" placeholder="Phone number" name="contact" required>
                     </div>
                     <div class="form-group mb-3">
-                      <label class="label-psswd" for="registerPassword">Show</label>
-                      <input class="form-control rounded-0" id="registerPassword" type="password" placeholder="Password" required>
+                      <label class="label-psswd" for="registerPassword"><i class="bi bi-eye"></i></label>
+                      <input class="form-control rounded-0" id="registerPassword" type="password" placeholder="Password" name="password" required>
+                    </div>
+
+
+                    <div class="form-group mb-3">
+                      <label class="label-psswd" for="registerPassword"><i class="bi bi-eye"></i></label>
+                      <input class="form-control rounded-0" id="registerPassword" type="password" placeholder="Re-enter password" name="repass" required>
                     </div>
                     <button class="btn btn-primary w-100" type="submit">Register Now</button>
                   </form>
                 </div>
                 <!-- Sign in via others-->
-                <div class="signin-via-others">
-                  <p class="mb-0">Or Sign in with</p><a class="btn btn-primary btn-sm mt-3 me-3" href="#"><i class="bi bi-facebook me-2"></i>Facebook</a><a class="btn btn-primary btn-sm mt-3 me-3" href="#"><i class="bi bi-twitter me-2"></i>Twitter</a>
-                </div>
+                
               </div>
             </div>
           </div>
