@@ -7,7 +7,7 @@
         <div class="row h-100 align-items-center">
           <div class="col-12">
             <div class="breadcrumb-content">
-              <h2 class="breadcrumb-title">Checkout</h2>
+              <h2 class="breadcrumb-title">Payment</h2>
               
             </div>
           </div>
@@ -22,7 +22,9 @@
           <!-- Checkout Details Area-->
           <div class="col-12 col-lg-6">
             <div class="checkout-details-area">
-              <h3 class="mb-4">Billing Details</h3>
+              <h3 class="mb-4">Payment  Instruction</h3>
+
+              <p><em>Kindly Pay the total amount of &#8373;200 to Below Account</em><br> <strong>Mobile Money Number : 0556676471 <br>Account Name : Wisdom Kagblor </strong></p>
               <form action="#" method="post">
                 <div class="row">
                   <div class="col-12">
@@ -65,10 +67,11 @@
               </form>
             </div>
           </div>
+          
           <!-- Order Form Area-->
           <div class="col-12 col-lg-6">
             <div class="order-form bg-gray">
-              <h4 class="mb-4">Your Order</h4>
+              <h4 class="mb-4">Order Sammury</h4>
               <!-- Order Table-->
               <div class="order-table table-responsive mb-4">
                 <table class="table table-bordered">
@@ -128,32 +131,16 @@
               </div>
             </div>
           </div>
+
+
+
+
+          
         </div>
       </div>
     </div>
     <div class="mb-120 d-block"></div>
-    <!-- Cool Facts Area -->
-    <!-- <div class="cta-area cta4 bg-gray pt-120 pb-120">
-      <div class="container">
-        <div class="row g-5 align-items-center justify-content-center">
-          <div class="col-12 col-sm-9 col-md-6">
-            <div class="cta-text">
-              <h2 class="text-dark">You want to Sell your Product with Us?</h2>
-              <p class="mb-4">You can Display your adds</p><a class="btn btn-primary rounded-pill" href="#">Start Now</a>
-            </div>
-          </div>
-          <div class="col-12 col-sm-9 col-md-6">
-            <div class="cta-thumb-group">
-              <div class="row">
-                <div class="col-4 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="100ms"><img src="img/bg-img/5.jpg" alt=""></div>
-                <div class="col-4 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms"><img src="http://preview.designing-world.com/saasbox-v2.0.0/img/bg-img/13.jpg" alt=""></div>
-                <div class="col-4 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="500ms"><img src="http://preview.designing-world.com/saasbox-v2.0.0/img/bg-img/14.jpg" alt=""></div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div> -->
+   
     <div class="mb-120 d-block"></div>
     <!-- Footer Area-->
     <?php include 'tail.php'; ?>
