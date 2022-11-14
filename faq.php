@@ -8,12 +8,7 @@
           <div class="col-12">
             <div class="breadcrumb-content">
               <h2 class="breadcrumb-title">FAQ</h2>
-              <nav aria-label="breadcrumb">
-                <ol class="breadcrumb justify-content-center">
-                  <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                  <li class="breadcrumb-item active" aria-current="page">FAQ</li>
-                </ol>
-              </nav>
+              
             </div>
           </div>
         </div>
