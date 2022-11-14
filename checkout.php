@@ -33,10 +33,7 @@
                     <label class="mb-2" for="last-name">Last Name</label>
                     <input class="form-control mb-30" id="last-name" type="text" placeholder="Last Name" value="" required>
                   </div>
-                  <div class="col-12">
-                    <label class="mb-2" for="company">Company Name</label>
-                    <input class="form-control mb-30" id="company" type="text" placeholder="Company" value="">
-                  </div>
+                  
                   <div class="col-12">
                     <label class="mb-2" for="email-address">Email Address</label>
                     <input class="form-control mb-30" id="email-address" type="email" placeholder="Email Address" value="" required>
@@ -45,17 +42,7 @@
                     <label class="mb-2" for="phone">Phone</label>
                     <input class="form-control mb-30" id="phone" type="text" placeholder="Phone" value="">
                   </div>
-                  <!-- <div class="col-12">
-                    <label class="mb-2" for="country">Country</label>
-                    <select class="form-select form-control w-100 mb-30" id="country">
-                      <option value="usa">United States</option>
-                      <option value="usa">United Kingdom</option>
-                      <option value="usa">Germany</option>
-                      <option value="usa">India</option>
-                      <option value="usa">Australia</option>
-                      <option value="usa">Bangladesh</option>
-                    </select>
-                  </div> -->
+                  
                  
                   <div class="col-12">
                     <label class="mb-2" for="order-notes">Order Notes (optional)</label>
