@@ -31,7 +31,7 @@
                     <label class="mb-2" for="first-name">Enter Transaction ID after payment</label>
                     <input class="form-control mb-30" id="first-name" type="text" name="tid" placeholder="Mobile Money Transaction ID" value="" required>
                   </div>
-                  <div class="col-12">
+                  <!-- <div class="col-12">
                     <label class="mb-2" for="last-name">Last Name</label>
                     <input class="form-control mb-30" id="last-name" type="text" placeholder="Last Name" value="" required>
                   </div>
@@ -46,18 +46,16 @@
                   <div class="col-12">
                     <label class="mb-2" for="phone">Phone</label>
                     <input class="form-control mb-30" id="phone" type="text" placeholder="Phone" value="">
-                  </div>
-                  <!-- <div class="col-12">
-                    <label class="mb-2" for="country">Country</label>
-                    <select class="form-select form-control w-100 mb-30" id="country">
-                      <option value="usa">United States</option>
-                      <option value="usa">United Kingdom</option>
-                      <option value="usa">Germany</option>
-                      <option value="usa">India</option>
-                      <option value="usa">Australia</option>
-                      <option value="usa">Bangladesh</option>
-                    </select>
                   </div> -->
+                  <div class="col-12">
+                    <label class="mb-2" for="country">Select your Network Operator</label>
+                    <select class="form-select form-control w-100 mb-30" id="country" name="operator">
+                      <option value="mtn">MTN MOBILE MONEY</option>
+                      <option value="vodafone">VODAFONE CASH</option>
+                      <option value="tigo">TIGO CASH</option>
+                      
+                    </select>
+                  </div>
                  
                   <div class="col-12">
                     <label class="mb-2" for="order-notes">Order Notes (optional)</label>
