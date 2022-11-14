@@ -19,7 +19,7 @@
     <div class="faq--area">
       <div class="container">
         <div class="row g-4 g-lg-5">
-          <div class="col-12 col-lg-6">
+          <div class="col-12 col-lg-12">
             <div class="faq-content">
               <div class="accordion faq--accordian" id="faqaccordian">
                 <!-- Single FAQ -->
@@ -58,55 +58,11 @@
               </div>
             </div>
           </div>
-          <div class="col-12 col-lg-6">
-            <div class="faq-content">
-              <div class="accordion faq--accordian" id="faqaccordian2">
-                <!-- Single FAQ -->
-                <div class="card border-0">
-                  <div class="card-header" id="headingFour">
-                    <button class="btn" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">4. How can I purchased Saasbox?</button>
-                  </div>
-                  <div class="collapse show" id="collapseFour" aria-labelledby="headingFour" data-bs-parent="#faqaccordian2">
-                    <div class="card-body">
-                      <p>Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt eiusmod.</p>
-                    </div>
-                  </div>
-                </div>
-                <!-- Single FAQ -->
-                <div class="card border-0">
-                  <div class="card-header" id="headingFive">
-                    <button class="btn collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="true" aria-controls="collapseFive">5. What are the minimum requirements?</button>
-                  </div>
-                  <div class="collapse" id="collapseFive" aria-labelledby="headingFive" data-bs-parent="#faqaccordian2">
-                    <div class="card-body">
-                      <p>Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt eiusmod.</p>
-                    </div>
-                  </div>
-                </div>
-                <!-- Single FAQ -->
-                <div class="card border-0">
-                  <div class="card-header" id="headingSix">
-                    <button class="btn collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="true" aria-controls="collapseSix">6. What is the regular license?</button>
-                  </div>
-                  <div class="collapse" id="collapseSix" aria-labelledby="headingSix" data-bs-parent="#faqaccordian2">
-                    <div class="card-body">
-                      <p>Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt eiusmod.</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
+          
         </div>
       </div>
     </div>
     <div class="mb-120 d-block"></div>
     <!-- Footer Area-->
     <?php include 'tail.php'; ?>
-    <!-- Scroll To Top -->
-    <div id="scrollTopButton"><i class="bi bi-arrow-up-short"></i></div>
-    <!-- All JavaScript Files-->
-    <script src="js/all-js-libraries.js"></script>
-    <script src="js/active.js"></script>
-  </body>
-</html>
+    
