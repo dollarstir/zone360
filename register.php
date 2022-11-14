@@ -27,7 +27,7 @@
             <div class="card register-card bg-gray p-2 p-sm-4">
               <div class="card-body">
                 <h4>Create your free account</h4>
-                <p>Already have an account?<a class="ms-2" href="login.html">Log In</a></p>
+                <p>Already have an account?<a class="ms-2" href="login">Log In</a></p>
                 <!-- Register Form-->
                 <div class="register-form my-5">
                   <form action="#" method="post">

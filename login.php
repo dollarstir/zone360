@@ -28,7 +28,7 @@
             <div class="card register-card bg-gray p-2 p-sm-4">
               <div class="card-body">
                 <h4>Welcome Back!</h4>
-                <p>Didn't have an account?<a class="ms-2" href="register.html">Sign Up</a></p>
+                <p>Didn't have an account?<a class="ms-2" href="register">Sign Up</a></p>
                 <!-- Register Form -->
                 <div class="register-form my-4 my-lg-5">
                   <form action="#" method="post">
