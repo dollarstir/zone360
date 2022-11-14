@@ -24,12 +24,12 @@
             <div class="checkout-details-area">
               <h3 class="mb-4">Payment  Instruction</h3>
 
-              <p><em>Kindly Pay the total amount of &#8373;200 to Below Account</em><br> <strong>Mobile Money Number : 0556676471 <br>Account Name : Wisdom Kagblor </strong></p>
+              <p><div style="background-color:red;color:#ffff;padding:10px;border-radius:20px;"><h5>Kindly Pay the total amount of &#8373;200 to Below Account</h5><br> <strong>Mobile Money Number : <br>0556676471 <br><br>Account Name : <br>Wisdom Kagblor <br><br>Transaction Reference : <br>STC111</strong></div></p>
               <form action="#" method="post">
                 <div class="row">
                   <div class="col-12">
-                    <label class="mb-2" for="first-name">First Name</label>
-                    <input class="form-control mb-30" id="first-name" type="text" placeholder="First Name" value="" required>
+                    <label class="mb-2" for="first-name">Enter Transaction ID after payment</label>
+                    <input class="form-control mb-30" id="first-name" type="text" name="tid" placeholder="Mobile Money Transaction ID" value="" required>
                   </div>
                   <div class="col-12">
                     <label class="mb-2" for="last-name">Last Name</label>
